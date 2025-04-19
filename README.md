@@ -1,6 +1,6 @@
 # smartbank-transaction-tracker
 <br>
-Check Balance
+Check Balance Inquery
 <br>
 Dispute a Transaction
 <br>
