@@ -1,6 +1,13 @@
 # smartbank-transaction-tracker
-
 <br>
-Like Check Balance
+Check Balance
 <br>
-     Add Balance 
+Dispute a Transaction
+<br>
+View Transaction History
+<br>
+Track Panding Transaction
+<br>
+Search and Pending Transaction
+<br>
+Downloud Transaction Statment
